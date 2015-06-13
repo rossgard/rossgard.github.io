@@ -1,4 +1,0 @@
-User-agent: *
-Disallow: 
-
-Sitemap: http://rossgard.github.io/sitemap.xml 
