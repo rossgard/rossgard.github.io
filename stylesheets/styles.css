@@ -325,7 +325,7 @@ dd {
 menu,
 ol,
 ul {
-  padding: 0 0 0 400px;
+  padding: 0 0 0 500px;
 }
 
 /*
@@ -596,7 +596,7 @@ a small {
 }
 
 ul {
-  list-style-image: url("../images/bullet.png");
+  /*list-style-image: url("../images/bullet.png");*/
 }
 
 strong {
