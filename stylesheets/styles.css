@@ -125,7 +125,7 @@ audio:not([controls]) {
  *    www.456bereastreet.com/archive/201012/controlling_text_size_in_safari_for_ios_without_disabling_user_zoom/
  */
 html {
-  font-size: 100%;
+  font-size: 200%;
   /* 1 */
   -webkit-text-size-adjust: 100%;
   /* 2 */
@@ -178,12 +178,12 @@ a:active {
  * Addresses font sizes within 'section' and 'article' in FF4+, Chrome, S5
  */
 h1 {
-  font-size: 2em;
+  font-size: 4em;
   margin: 0.67em 0;
 }
 
 h2 {
-  font-size: 1.5em;
+  font-size: 3em;
   margin: 0.83em 0;
 }
 
